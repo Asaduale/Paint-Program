@@ -1,0 +1,119 @@
+# Fill in, commit and push each day.
+# Group Member: Anton Khimich
+
+Oct 23, 2017
+	Yesterday : 
+	Today     : We received the assignment and I added my contact info.
+	Obstacles : None
+
+Oct 24, 2017
+	Yesterday : Added contact info and received assignment.
+	Today     : Started work on Bug5.
+	Obstacles : Conflicts
+
+Oct 25, 2017
+	Yesterday : Started work on Bug5
+	Today     : Possible Bug5 fix. Further testing required.
+	Obstacles : 
+
+Oct 26, 2017
+	Yesterday : Possible Bug5 fix.
+	Today     : No work was done.
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+
+Oct 30, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles : 
+
+Nov 1, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday : No work was done.
+	Today     : No work was done.
+	Obstacles :
+	
+Nov 3, 2017
+	Yesterday : No work was done.
+	Today     : Implemented Squiggle class.
+	Obstacles : None
+
+Nov 4, 2017
+	Yesterday : Implemented Squiggle class.
+	Today     : Moved the drawing code out of PaintPanel.
+	Obstacles : None
+
+Nov 5, 2017
+	Yesterday : Moved the drawing code.
+	Today     : Implemented a Color Display, and finished documenting the project.
+	Obstacles :
+	
+Nov 6, 2017
+	Yesterday : Finished Part 1
+	Today	  : Moved the user stories into productBacklog.
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday : Moved and looked over user stories.
+	Today	  : No work was done.
+	Obstacles :
+	
+Nov 8, 2017
+	Yesterday : No work was done.
+	Today	  : No work was done.
+	Obstacles :
+	
+Nov 9, 2017
+	Yesterday : No work was done.
+	Today	  : No work was done.
+	Obstacles :
+	
+Nov 10, 2017
+	Yesterday : No work was done.
+	Today	  : Began looking over possible implementations of design patterns
+	Obstacles : 
+	
+Nov 11, 2017
+	Yesterday : Began looking over Design Patterns
+	Today	  : Finished implementing the Command Pattern for drawing shapes.
+				Decided to make a mirror hierarchy in order to make PaintModel 
+				more logical.
+	Obstacles : Confusion with implementation of Command, but figured it out.
+	
+Nov 12, 2017
+	Yesterday : Implemented the Command Pattern for drawing Shapes.
+	Today	  : Worked on implementing Strategy and Factory patterns.
+	Obstacles : A lot of code to refactor.
+	
+Nov 13, 2017
+	Yesterday : Worked on implementing Strategy and Factory patterns.
+	Today	  : Finished implementing the design patterns for drawing Shapes.
+	Obstacles : A LOT of code to refactor.
+	
+Nov 14, 2017
+	Yesterday : Finished implementing Factory and Strategy patterns for drawing Shapes.
+	Today	  : Refactored code into packages for better visibility and minor bug fixes.
+	Obstacles :										

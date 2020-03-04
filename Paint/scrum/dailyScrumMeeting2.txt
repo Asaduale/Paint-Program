@@ -1,0 +1,120 @@
+# Fill in, commit and push each day.
+# Group Member: Asad Ali
+
+Oct 23, 2017
+	Yesterday :
+	Today     : Pull the assignment from the repo, create branch, add name to member.txt.
+	Obstacles : A little bit of git issues, nothing serious.
+
+Oct 24, 2017
+	Yesterday : Pull repo.
+	Today     : Create rectangle class, attempt at implementing it in the Paint Panel, completed in Paint Model.
+	Obstacles : Merge conflicts, rectangles clone themselves, instead of one clean rectangle, you can see it being dragged.
+
+Oct 25, 2017
+	Yesterday : Rectangle class, rectangle in paint panel and model.
+	Today     : Completed rectangle class, completed square class.
+	Obstacles : Square works like rectangle, not sure if a square class is needed since a rectangle is a square.
+
+Oct 26, 2017
+	Yesterday : Square works like rectangle, completed rectangle.
+	Today     : Day off.
+	Obstacles : N/A
+
+Oct 27, 2017
+	Yesterday : Day off
+	Today     : Day off, midterm.
+	Obstacles : N/A
+
+Oct 28, 2017
+	Yesterday : Day off
+	Today     : Day off
+	Obstacles : N/A
+
+Oct 29, 2017
+	Yesterday : Day off
+	Today     : Day off, study for 290 midterm.
+	Obstacles : N/A
+
+Oct 30, 2017
+	Yesterday : Day off.
+	Today     : Attempt at solving square working like a rectangle, no progress made.
+	Obstacles : Square class has the same code as rectangle class, not sure how to implement with x and y axis and remember point.
+				drawRect(x, y, width, height) has 4 parameters, x, y, width, height. A square has the same width and height but
+				it will only focus on either width (x-axis) or height (y-axis) if two of the parameters are the
+				same.
+
+Oct 31, 2017
+	Yesterday : Attempt at solving square in paint panel.
+	Today     : Square now makes square shapes but the pivot point flies all over the place. It drags left and up but not 
+				right and down.
+	Obstacles : Trying to complete this final bug to complete my part of the assignment.
+
+Nov 1, 2017
+	Yesterday : Attempt at solving square.
+	Today     : Closer to the solution, the first pivot point click slightly moves.
+	Obstacles : Still not completed square.
+	
+Nov 2, 2017
+	Yesterday : Attempt at completing Square
+	Today     : Sick.
+	Obstacles : N/A
+	
+Nov 3, 2017
+	Yesterday : Sick.
+	Today     : Completed Square, better OO design.
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday : Completed Square
+	Today     : Attempt at using JTextArea in the bottom left corner of the frame to show the user what color they're currently at
+				when they drag the JSliders
+	Obstacles : Not sure how to implement it.
+
+Nov 5, 2017
+	Yesterday : Attempt at JTextArea background color
+	Today     : Javadoc for all of the functions I completed.
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday : None
+	Today     : None
+	Obstacles : None
+	
+Nov 8, 2017
+	Yesterday : None
+	Today     : Attempt at implementing Bug 2.1, created DrawingCommand Class and had all subclasses of Shape inherit. 
+	Obstacles : Not sure how to continue.
+	
+Nov 9, 2017
+	Yesterday : Attempt at implementing Bug 2.1, created DrawingCommand Class and had all subclasses of Shape inherit. 
+	Today     : Completed Bug 2.1.
+	Obstacles : What code went inside the execute command.
+	
+Nov 10, 2017
+	Yesterday : Completed Bug 2.1.
+	Today     : Group members tested out my Command Design Pattern. I needed help from Group Member Anton. 
+				I created the interface and implemented the execute method. Accidentally put execute() inside of all 
+				the classes instead of making a separate class, Anton ended up doing that. 
+	Obstacles : Slight misunderstanding of Command Design Pattern.
+
+Nov 11, 2017
+	Yesterday : Command Design Pattern completed.
+	Today     : Bug 2.2 completed, it was completed along with 2.1 since all the graphics contex such as changing drawing 
+			    color, stroke width etc were being changed along with it inside the execute command.
+	Obstacles : 
+
+Nov 12, 2017:
+	Yesterday : Bug 2.2
+	Today     : None
+	Obstacles : None
+
+Nov 13, 2017:
+	Yesterday : None
+	Today     : None
+	Obstacles : None
+
+Nov 14, 2017:
+	Yesterday : None
+	Today     : Javadoc.
+	Obstacles : None

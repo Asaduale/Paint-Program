@@ -1,0 +1,150 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday : NONE
+	Today     : NONE
+	Obstacles : NONE
+
+Oct 24, 2017
+	Yesterday : NONE
+	Today     : Finished thickness bar, RGB Colour Selector, New File, directory searcher
+				when opening an image, Image set to background.
+	Obstacles : Creating directory searcher when opening a file.
+
+Oct 25, 2017
+	Yesterday : Finished thickness bar, RGB Colour Selector, New File, directory searcher
+				when opening an image, Image set to background.
+	Today     : Fixed thickness bar bug, and added color backgrounds to the buttons, Cleaner UI.
+				Added exit button.
+	Obstacles : None
+
+Oct 26, 2017
+	Yesterday :Fixed thickness bar bug, and added color backgrounds to the buttons, Cleaner UI.
+			   Added exit button.
+	Today     :Fixed small bugs, mostly taken break to study for midterm
+	Obstacles :None
+
+Oct 27, 2017
+	Yesterday :Fixed small bugs, mostly taken break to study for midterm
+	Today     :None, came home very late after mid terms.
+	Obstacles :NoNE
+
+Oct 28, 2017
+	Yesterday :None
+	Today     :Tried to make the eraser tool so that the user is able to erase.
+	Obstacles :The way the paint is implemented, the eraser tool is on top of the other shapes when it repaints the panel.
+				when you draw over the eraser it overlaps. 
+
+Oct 29, 2017
+	Yesterday :Tried to make the eraser tool so that the user is able to erase.
+	Today     :FIXED BIG PROBLEM WITH SHAPES OVERLAPPING IN ORDER.
+				made shape class and every object inherits from it.
+	Obstacles :Squiggle needs to be fixed, because it is points not its not class.
+
+Oct 30, 2017
+	Yesterday :FIXED BIG PROBLEM WITH SHAPES OVERLAPPING IN ORDER.
+				made shape class and every object inherits from it.
+	Today     :Worked on creating eraser tool again since I have added the shape
+				classes.
+	Obstacles :Eraser is based on the squiggle. Squiggle is not its own object and is a bunch of points.
+
+Oct 31, 2017
+	Yesterday :Worked on creating eraser tool again since I have added the shape
+				classes.
+	Today     :NONE
+	Obstacles :NONE
+
+Nov 1, 2017
+	Yesterday :none
+	Today     :Started to work on redo and undo buttons
+	Obstacles :NONE
+	
+Nov 2, 2017
+	Yesterday :Started to work on redo and undo buttons.
+	Today     :Completed REDO AND UNDO BUTTONS
+	Obstacles :NONE
+	
+Nov 3, 2017
+	Yesterday :Completed REDO AND UNDO BUTTONS
+	Today     :Waiting for friend to complete a bug with feedback so i can finish the 
+				undo button. I will also begin on working on the making GUI look cleaner
+	Obstacles :None
+
+Nov 4, 2017
+	Yesterday :Waiting for friend to complete a bug with feedback so i can finish the 
+				undo button. I will also begin on working on the making GUI look cleaner
+	Today     : Created the fill shape button, created all of the fillshape userstory. 
+				Changed the entire LOOK and Feel of the GUI. added titles, colours, etc.
+	Obstacles : None
+
+Nov 5, 2017
+	Yesterday :Created the fill shape button, created all of the fillshape userstory. 
+				Changed the entire LOOK and Feel of the GUI. added titles, colours, etc.
+	Today     :Finished Eraser, added buttons, and made the eraser work smoothly. Did javadocs for all of the functions
+				 i did.
+	Obstacles :none.
+	
+Nov 7, 2017
+	Yesterday :NONE
+	
+	Today	  :Completed saving images to desktop folders + Warning on close window to save image
+	
+	Obstacles :Had to do alot of research on Files and BufferedImages
+
+Nov 8, 2017
+	Yesterday :Completed saving images to desktop folders + Warning on close window to save image
+
+	Today	  :Fixed small bugs including saving bugs on Macs
+				and Linux
+	Obstacles :None
+	
+Nov 9, 2017
+	Yesterday :Fixed small bugs including saving bugs on Macs
+				and Linux
+	Today	  :Tried to make 2 buttons to save the current
+				colors.
+	Obstacles :There is a bug, that needs to be fixed. Still working on it.
+	
+Nov 10, 2017
+	Yesterday :Tried to make 2 buttons to save the current
+				colors.
+	Today	  :Fixing fill button after partner changed design of the paint program
+	
+	Obstacles :There is a bug, that needs to be fixed.
+	
+Nov 11, 2017
+	Yesterday :Fixing fill button after partner changed design of the paint program
+	
+	Today	  :Fixed major problems with saving colors, also implemented the
+				2 tone fill shape with the 2 colors selected.
+				Will try to implement more extra features.
+				Did redo method and fixed undo method.
+	
+	Obstacles :None
+
+Nov 12, 2017
+	Yesterday :Fixed major problems with saving colors, also implemented the
+				2 tone fill shape with the 2 colors selected.
+				Will try to implement more extra features.
+				Did redo method and fixed undo method.
+	
+	Today	  :Added the rotate button, as well as small fixes
+	
+	Obstacles :None
+
+Nov 13, 2017
+	Yesterday :Added the rotate button, as well as small fixes
+	
+	Today	  :Added the triangle
+			   Added the oval shape
+	
+	Obstacles :Triangle is not working as intended. needs to be fixed.
+	
+Nov 14, 2017
+	Yesterday :Added the triangle
+			   Added the oval shape
+	Today	  :Fixed Triangle from yesterday,
+				Fixed Eraser Bug, changing colors.
+	
+	Obstacles :None

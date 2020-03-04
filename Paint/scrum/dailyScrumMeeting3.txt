@@ -1,0 +1,114 @@
+# Fill in, commit and push each day.
+# Group Member: Malay Shah
+
+Oct 23, 2017
+	Yesterday : 
+	Today     : Got the assignment, read over it.
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday : Read the assignment
+	Today     : Work on cricle, and try to fix all the problems with it.
+	Obstacles : None
+
+Oct 25, 2017
+	Yesterday : Finished the circle, and all their problems.
+	Today     : Do the PolyLine stories. 
+	Obstacles : Only created lines that were not connect to each other,
+				so had trouble converting lines into a polyline.
+
+Oct 26, 2017
+	Yesterday : Did the polylines, and fixed some bugs
+	Today     : Day off
+	Obstacles : None
+
+Oct 27, 2017
+	Yesterday : Day Off
+	Today     : Day Off, study for midterm.
+	Obstacles : None
+
+Oct 28, 2017
+	Yesterday : Day Off
+	Today     : Day off
+	Obstacles : None
+
+Oct 29, 2017
+	Yesterday : Day Off
+	Today     : Day Off
+	Obstacles : None
+
+Oct 30, 2017
+	Yesterday : Day Off
+	Today     : Check over the code, fix small mistakes. Help group
+				members out.
+	Obstacles : None
+
+Oct 31, 2017
+	Yesterday : Fixed some code.
+	Today     : Day Off. Help group members.
+	Obstacles : None
+
+Nov 1, 2017
+	Yesterday : Helped group members.
+	Today     : Day off
+	Obstacles : None
+	
+Nov 2, 2017
+	Yesterday : Day Off
+	Today     : Helped group members with their work.
+	Obstacles : None
+	
+Nov 3, 2017
+	Yesterday : Helped group members
+	Today     : Work on User Story 12.
+	Obstacles : None
+
+Nov 4, 2017
+	Yesterday : Finished user story 12
+	Today     : Try to fix bug 12
+	Obstacles : Creating many shapes when mouse dragged
+
+Nov 5, 2017
+	Yesterday : Tried to fix bug 12
+	Today     : Complete to fix bug 12, and try to make GUI better.
+	Obstacles : None
+	
+Nov 7, 2017
+	Yesterday : None
+	Today     : None
+	Obstacles : None
+	
+Nov 8, 2017
+	Yesterday : None
+	Today     : Work on user story 19
+	Obstacles : None.
+	
+Nov 9, 2017
+	Yesterday : Worked on user story 19
+	Today     : None
+	Obstacles : None
+	
+Nov 10, 2017
+	Yesterday : None
+	Today     : Start working on one of the bugs
+	Obstacles : None
+	
+Nov 11, 2017
+	Yesterday : None
+	Today     : Bug 13 try to fix
+	Obstacles : None
+	
+Nov 12, 2017
+	Yesterday : None
+	Today     : Make the GUI better, by doing some additional features.
+	Obstacles : Connecting the JSlider with JTextfield, so they both change in real time
+
+Nov 13, 2017
+	Yesterday :  Changed the layout of the display, and added a text display for the stroke.
+	Today     : Implement a new cursor, and add any new features to make it stand out.
+	Obstacles : None
+
+Nov 14, 2017
+	Yesterday : Changed the cursors, color picker now shows when double clicked on color view.
+	Today     : Implement the selection story, so that we can copy, cut, paste.
+	Obstacles : None
